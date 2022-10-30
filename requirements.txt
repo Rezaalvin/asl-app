@@ -60,7 +60,7 @@ PyInstaller==3.4
 pyparsing==2.3.0
 PyQt5==5.11.3
 PyQt5-sip==4.19.13
-python-dateutil==2.7.5
+python-dateutil==3.10.8
 pytz==2018.7
 PyWavelets==1.0.1
 pywin32-ctypes==0.2.0
