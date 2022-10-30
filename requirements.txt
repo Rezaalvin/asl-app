@@ -50,7 +50,6 @@ pefile
 pexpect
 pickleshare
 Pillow
-pkg-resources==0.0.0
 prompt-toolkit
 protobuf
 ptyprocess
