@@ -52,7 +52,7 @@ pickleshare
 Pillow
 pkg-resources
 prompt-toolkit
-protobuf=
+protobuf
 ptyprocess
 pycparser
 Pygments
